@@ -1,0 +1,3 @@
+local:
+  profile:
+    config: from app-one-uat.yml

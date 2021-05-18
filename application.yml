@@ -1,6 +1,2 @@
-# Sample public application.yml to be used by Spring Cloud Config Server
-
 application:
-    message: Configured by Spring Cloud Config Server changed
-my:
-    config: my random config
+  config: from application.yml
