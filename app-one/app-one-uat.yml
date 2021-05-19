@@ -1,3 +1,5 @@
-app-spec:
-  profile-spec:
+app:
+  profile:
     config: from app-one-uat.yml
+app-vs-app-profile:
+  config: from app-one-uat.yml

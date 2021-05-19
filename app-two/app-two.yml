@@ -1,2 +1,6 @@
-app-spec:
+app:
+  config: from app-two.yml
+global-vs-app:
+  config: from app-two.yml
+app-vs-app-profile:
   config: from app-two.yml

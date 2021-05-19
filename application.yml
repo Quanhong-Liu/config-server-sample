@@ -1,2 +1,4 @@
-application:
+global:
+  config: from application.yml
+global-vs-app:
   config: from application.yml
