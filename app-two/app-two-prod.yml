@@ -1,3 +1,3 @@
-local:
-  profile:
+app-spec:
+  profile-spec:
     config: from app-two-prod.yml
